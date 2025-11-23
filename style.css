@@ -207,7 +207,7 @@ hr {
 
 .about-container{
     display: flex;
-    gap: 2rem;
+    gap: 10rem;
 }
 
 .about img{
